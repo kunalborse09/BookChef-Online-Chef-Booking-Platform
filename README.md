@@ -7,8 +7,6 @@
 + [Screenshots](#screenshots)
 + [Usage](#usage)
 + [Installation and Setup](#installationandsetup)
-+ [Contributing](#contributing)
-+ [License](#license)
 + [Contact](#contact)
 
 ## Description <a name="description"></a>
