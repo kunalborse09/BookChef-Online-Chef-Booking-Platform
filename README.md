@@ -6,7 +6,7 @@
 + [Features](#features)
 + [Screenshots](#screenshots)
 + [Usage](#usage)
-+ [Installation](#installation and setup)
++ [Installation](#installationandsetup)
 + [Contributing](#contributing)
 + [License](#license)
 + [Contact](#contact)
@@ -28,24 +28,14 @@ BookChef is an online platform designed to connect users with professional chefs
  + Admins can efficiently manage chef registrations and ensure the platform's quality.
  + Provides a seamless and organized booking experience for both users and chefs.
 
-## Installation and Setup <a name="installation and setup"></a>
- 1.Clone the repository.
+## Installation and Setup <a name="installationandsetup"></a>
+ 1. Clone the repository.
  git clone https:https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform.git
 
- 2.Set up the database using XAMPP.
+ 2. Set up the database using XAMPP.
 
- 3.Open the project in your Eclipse IDE.
+ 3. Open the project in your Eclipse IDE.
 
-## Contributing <a name="contributing"></a>
-Contributions to the Amazon clone project are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes and commit them .
-4. Push to the branch.
-5. Create a new Pull Request.
-
-## License <a name="license"></a>
-This project is licensed under the MIT License.
 
 ## Contact <a name="contact"></a>
 **For any questions, feedback, or support requests, feel free to contact us at kp563566@gmail.com.**
