@@ -15,7 +15,7 @@ BookChef is an online platform designed to connect users with professional chefs
 
 ## Technology <a name="technology"></a>
 - **Frontend:** HTML, CSS
-- **Backend:** Java, Advanced Java, JSP, Servlet
+- **Backend:** Java, Advanced Java, JDBC, JSP, Servlet
 - **Database:** MySQL (XAMPP)
 - **Version Control:** Git
   
