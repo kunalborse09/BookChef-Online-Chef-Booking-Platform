@@ -40,4 +40,4 @@ BookChef is an online platform designed to connect users with professional chefs
 ## Contact <a name="contact"></a>
 **For any questions, feedback, or support requests, feel free to contact us at kp563566@gmail.com.**
 
-Experience the e-commerce journey with the Amazon Clone project. Explore products, simulate purchases, and enhance your web development skills.
+
