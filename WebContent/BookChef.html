@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BookChef</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@400;700&display=swap">
+    
+    
+    <style>
+		 body {
+		    margin: 0;
+		    padding: 0;
+		    font-family: 'Arial', sans-serif;
+		    /*background: linear-gradient(to right, #FFD700, #FF6347); /* Red to Yellow gradient */
+		    background-image: url('chef.jpg');
+		    
+		    display: flex;
+		    justify-content: center;
+		    align-items: center;
+		    flex-direction: column;
+		    height: 100vh;
+		}
+        
+
+        h1 {
+		    font-family: 'Proxima Nova', sans-serif; /* Use Proxima Nova or another preferred sans-serif font */
+		    color: #fff;
+		    text-align: center;
+		    margin-bottom: 30px;
+		    letter-spacing: 2px;
+		    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+		}
+        
+        
+
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .option {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px;
+            text-align: center;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease-in-out;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .option:hover {
+            transform: scale(1.05);
+        }
+
+        .option h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        /* Add specific background images for each option */
+        #admin {
+            background-image: url('admin_background.jpg'); /* Replace 'admin_background.jpg' with your actual image file */
+        }
+
+        #chef {
+            background-image: url('chef_background.jpg'); /* Replace 'chef_background.jpg' with your actual image file */
+        }
+
+        #user {
+            background-image: url('user_background.jpg'); /* Replace 'user_background.jpg' with your actual image file */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to BookChef: Your Online Chef Booking Platform</h1>
+    <div class="container">
+        <div class="option" id="admin">
+            <a href="a_1_AdminLogin.html"><h2>Admin</h2></a>
+            <p>Welcome, Admin! Manage your chef bookings here.</p>
+            <!-- Add admin-related content or links here -->
+        </div>
+        
+        <div class="option" id="chef">
+            <a href="b_1_ChefLogin.html"><h2>Chef</h2></a>
+            <p>Hello, Chef! View and manage your bookings on BookChef.</p>
+            <!-- Add chef-related content or links here -->
+        </div>
+        
+        <div class="option" id="user">
+            <a href="c_1_UserLogin.html"><h2>User</h2></a>
+            <p>Hi there! Find and book your favorite chef for a delightful meal.</p>
+            <!-- Add user-related content or links here -->
+        </div>
+    </div>
+</body>
+</html>

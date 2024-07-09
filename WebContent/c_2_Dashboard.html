@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bookchef</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em;
+        }
+
+        main {
+            display: flex;
+            justify-content: space-around;
+            padding: 2em;
+        }
+
+        .option {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 2em;
+            text-align: center;
+            width: 30%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .option:hover {
+            background-color: #f5f5f5;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1> BookChef : Online Chef Booking Platform</h1>
+    </header>
+
+    <main>
+        <div class="option" onclick="location.href='#'">
+            <a href="c_4_ViewByEnterYourCity.jsp"><h2>View All Chefs (City wise)</h2></a>
+            <p>View Chefs.</p>
+        </div>
+
+        <div class="option" onclick="location.href='#'">
+            <a href="c_6_viewSpecialityEnterCity.jsp"><h2>Search by Chef Speciality (City wise)</h2></a>
+            <p>View Speciality wise.</p>
+        </div>
+
+        <div class="option" onclick="location.href='#'">
+            <a href="c_9_ViewBookingStatus.jsp"><h2>View Bookings with status</h2></a>
+            <p>view your Bookings.</p>
+        </div>
+        
+        
+    </main>
+</body>
+</html>
