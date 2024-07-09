@@ -22,7 +22,16 @@ BookChef is an online platform designed to connect users with professional chefs
 
 ## Screenshots <a name="screenshots"></a>
 
-## Usage <a name="usage"></a>
+![Screenshot (69)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/c4175e0b-b6bc-40b0-a404-d54d83ac9bc3)
+![Screenshot (10)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/af219c8d-ce8a-40d1-9da8-d2de292f4d40)
+![Screenshot (39)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/e824c28c-0c97-4496-af30-4c1c9b48466f)
+![Screenshot (12)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/71b82622-f807-4100-ae87-3b7c35306cb9)
+![Screenshot (35)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/2031aab7-1fa0-4e61-ad74-1ba281b59d72)
+![Screenshot (36)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/c6af8bf5-aa30-4b9c-9f8a-75b7cbe9b1db)
+
+
+
+## Usage <a name="usage"></a> 
  + Users can easily find and book chefs for various events based on location and specialty.
  + Chefs can manage their bookings and showcase their portfolio to attract more clients.
  + Admins can efficiently manage chef registrations and ensure the platform's quality.
