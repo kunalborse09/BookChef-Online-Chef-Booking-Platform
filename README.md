@@ -6,7 +6,7 @@
 + [Features](#features)
 + [Screenshots](#screenshots)
 + [Usage](#usage)
-+ [Installation](#installationandsetup)
++ [Installation and Setup](#installationandsetup)
 + [Contributing](#contributing)
 + [License](#license)
 + [Contact](#contact)
@@ -30,7 +30,7 @@ BookChef is an online platform designed to connect users with professional chefs
 
 ## Installation and Setup <a name="installationandsetup"></a>
  1. Clone the repository.
- git clone https:https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform.git
+ git clone https: https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform.git
 
  2. Set up the database using XAMPP.
 
