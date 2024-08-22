@@ -27,7 +27,7 @@ BookChef is an online platform designed to connect users with professional chefs
 
 ## Screenshots <a name="screenshots"></a>
 
-![Screenshot (69)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/c4175e0b-b6bc-40b0-a404-d54d83ac9bc3)
+![Uploading Screenshot 2024-08-22 205939.png…]()
 ![Screenshot (10)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/af219c8d-ce8a-40d1-9da8-d2de292f4d40)
 ![Screenshot (39)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/e824c28c-0c97-4496-af30-4c1c9b48466f)
 ![Screenshot (12)](https://github.com/kunalborse09/BookChef-Online-Chef-Booking-Platform/assets/125109765/71b82622-f807-4100-ae87-3b7c35306cb9)
