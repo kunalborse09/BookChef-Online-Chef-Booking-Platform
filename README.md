@@ -1,14 +1,7 @@
 
 # BookChef-Online-Chef-Booking-Platform
 
-## Table of Contents
-+ [Description](#description)
-+ [Technology](#technology)
-+ [Features](#features)
-+ [Screenshots](#screenshots)
-+ [Usage](#usage)
-+ [Installation and Setup](#installationandsetup)
-+ [Contact](#contact)
+
 
 ## Description <a name="description"></a>
 BookChef is an online platform designed to connect users with professional chefs. Users can search for chefs based on their specialty and location, view detailed profiles, and book their services. Chefs can manage their bookings and showcase their portfolio. Admins oversee the platform, approving or disapproving chefs and managing user information.
